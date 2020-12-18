@@ -152,7 +152,7 @@ Here are the conversion rates:
 * Ability - 2
 * Discipline - 7 
 * Background - 1 (highly recommend)
-* Virtue - 2
+* Virtue - 2 (note that this raises one of your derived stats as well, so cost for the Virtue is *arguably* 1)
 * Humanity - 1
 * Willpower - 1
 
