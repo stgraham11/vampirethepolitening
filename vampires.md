@@ -16,7 +16,7 @@ It is inherently a bummer to be a vampire once the honeymoon period of being a n
 
 Many events in history can be understood better once knowledge of the supernatural is in play.  For example, the time of the Spanish Inquisition, largely regarded among humans as a senseless orgy of overzealous slaughter, was as terrorized as Europe's vampires have ever been by anyone except each other!
 
-The supernatural is real, although most people don't know that.  You probably figured that, being a vampire, but what if that's the only difference between the world and the 'party line'?  Well, it's not.  Changelings, sorcerers, mummies, ghosts, and more all exist.  Werewolves are of particular importance to you, since as self-designated protectors of natural law, they're raised from birth on stories of how abominable you are and how dead you should be.
+The supernatural is real, although most people don't know that.  You probably figured that, being a vampire, but what if that's the only difference between the world and the 'party line'?  Well, it's not.  Changelings, sorcerers, mummies, ghosts, and more all exist.  And since humans are diverse and some few are woke to this, there are human hunters of the supernatural as well.  Werewolves are of particular importance to you, since as self-designated protectors of natural law, they're raised from birth on stories of how abominable you are and how dead you should be.
 
 ## Vampire Society
 
