@@ -67,13 +67,13 @@ BACKGROUNDS
 * Allies - powerful people who really want to help you, but who are very busy.  One ally (plus they all improve) per point.
 * Contacts - a lot more people, but who don't want to help you as much.  A few contacts per point.
 * Fame - Yeah, like Bowie.  3 points is statewide fame; 5 is international
-* Generation - The more points you put in this, the closer you are to Caine and the more blood you can fit in this bad boy
+* Generation - Closeness to Caine.  More points means more blood available.  Good for heavy Discipline users.
 * Herd - A fan club, cult, kink group, dungeon, or other set of humans from whom you can drink at low risk.  2^(points+1) people.
 * Influence - Yeah, like Instagram.  2 points is state political figure; 4 is national.
 * Mentor - In this case, always an elder vampire; even a *very* wise human can be a Retainer instead
 * Resources - Material wealth.  Note that this is human money or goods; there's no Wizarding Bank or whatever shit
 * Retainers - Loyal beings who will help you constantly if asked, like servants or lovers or even a dog.  1 point per creature.
-* Status - Standing in vampire society.  More than 3 points implies a role in local government.
+* Status - Standing in vampire society.  More than 3 points implies a role in local undead government.
 
 ## Virtues
 As new vampires, you still have these!  Virtues are the good things about humanity.  Since you're still vaguely human, you get 1 point for free in each virtue, and you have 7 more to distribute as you wish; Virtues have a maximum of 5.  In addition to what their names imply, raising Courage makes you more determined/motivated as well, whereas the other two make you more human and make the Thirst play a less controlling role in your life.
