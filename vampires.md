@@ -12,6 +12,8 @@ Vampires used to be people - no one is born a vampire.  The very first vampire w
 
 It is inherently a bummer to be a vampire once the honeymoon period of being a nightstalking superhero wears off. You're not a person anymore, and even if people can't tell that, you can't connect to them as if you were.  Love, sex, food, and every other pleasure of life are all replaced by predatory blood-drinking.  Vampires cannot have children, just create other vampires - and their art, while it can be excellent, is always lacking in creativity.  As they age, they become more powerful, but also more unwilling to change.  This utter inability to create is the final part of the curse; vampires are beings of decay.
 
+This game is the story of your survival despite these harsh disadvantages.
+
 ## The Supernatural World of Darkness
 
 Many events in history can be understood better once knowledge of the supernatural is in play.  For example, the time of the Spanish Inquisition, largely regarded among humans as a senseless orgy of overzealous slaughter, was as terrorized as Europe's vampires have ever been by anyone except each other!
