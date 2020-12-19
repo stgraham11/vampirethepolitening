@@ -103,9 +103,7 @@ Disciplines are Vampiric blood magic.  Unlike magic used by wizards, there's not
 
 Disciplines are very powerful, but they all cost blood to use.  A thirsty Vampire can't use them, and even a sated one can become thirsty in a hurry through overuse.  You get 3 points to spend on Disciplines, which you can split any way you like between your chosen Clan's 3 options.  
 
-Unlike less precious Attribute or Ability points, each point spent on a Discipline (unless I have marked it 'simple') will usually grant you a radically new and different ability rather than a proportional increase in chance of success.
-
-NB: If you care to read the rulebook beyond this document during character creation, Clans and Disciplines are where to spend your time: they're the areas I'm doing the most summarization of.
+Unlike less precious Attribute or Ability points, each point spent on a Discipline (unless I have marked it 'simple') will usually grant you a radically new and different ability rather than a proportional increase in chance of success. NB: If you care to read the rulebook beyond this document during character creation, Clans and Disciplines are where to spend your time - they're the areas I'm doing the most summarization of.
 
 ### Disciplines
 * Animalism - A special bond.  You can talk to, relate to, and eventually control animals.
@@ -113,7 +111,7 @@ NB: If you care to read the rulebook beyond this document during character creat
 * Celerity - Superhuman speed.  This is a simple one.
 * Chimerstry - The Vampiric art of illusion.  Conceal things or change perceptions of them, eventually conjure illusions
 * Dementation - Spontaneous insanity.  The Malkavian's ability to transfer his madness to others.
-* Dominate - Mind control.  Issue a simple must-obey command, or eventually mindwipe or possess weak people
+* Dominate - Mind control.  Issue a straightforward must-obey command, or eventually mindwipe or possess weak people
 * Fortitude - Superhuman resilience.  Another simple one.
 * Necromancy - You know what this is.  Seances and re-animations.
 * Obfuscate - Hiding in plain sight. The ability to remain either unperceived, unremembered, or obscure on a supernatural level.
