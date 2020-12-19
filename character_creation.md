@@ -11,11 +11,11 @@ Abilities are the opposite - 25 sets of learned facts, techniques and practices 
 
 So, when you do something, you'll be better at it on the basis of one area of talent and one area of skill, basically.  Obviously, it's best for you if you are both skilled and talented at something, but one or the other is better than neither!
 
-EXAMPLES:
+EXAMPLES (not necessarily the only applicable ones in each case, GM has final say but players may propose combos):
 
 * Hack a computer user account for its password: Wits (Attribute) + Computer (Ability) (they're always put in that order)
 * Punch someone's lights out: Strength + Brawl
-* Impress a guy at a bar: Charisma + Subterfuge
+* Impress a guy at the bar: Appearance + Subterfuge
 * Drive the getaway van: Dexterity + Drive
 
 (Note that it says 'anything a human might do' - if you're mind-controlling someone, or resisting Thirst, or other things Vampires do but people don't, that's when the non-Attribute-or-Ability stats on the character sheet come in.)  OK, on to your character!
