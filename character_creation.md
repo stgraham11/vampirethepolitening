@@ -94,7 +94,7 @@ Humanity is just what it sounds like, and ranges between 1 and 10.  Let's look a
 Low Humanity scores mean you're an asshole and may have trouble blending in.  Eventually, nearly every elder vampire ends up with a low score - but how long that takes is the story of your character, basically.  Your starting Humanity is equal to your Conscience plus your Self-control.
 
 ### Willpower
-Willpower also ranges between 1 and 10. It is an exhaustible supply of personal determination that can be used to add 'oomph' to most any roll you attempt to make, but once you're out, you're out until you can do something that "recharges the batteries" so to speak.  Your starting maximum is equal to your Courage.
+Willpower also ranges between 1 and 10. In addition to what the name implies, it is an exhaustible supply of personal determination that can be used to add 'oomph' to most any roll you attempt to make, but once you're out, you're out until you can do something that "recharges the batteries" so to speak.  Your starting maximum is equal to your Courage.
 
 ## Clan and Disciplines
 You don't have to play a loyal card-carrying member, but every Vampire is part of a Clan by virtue of having a parent who also was, whether they like it or not.  Each Clan represents (putative) descent from a particular vampire of the 2nd or 3rd generation, an Antediluvian.  Vampire Clans have belief systems that matter a lot, but an individual can hew to these or not - however, no one can escape the fact that their Clan determines which Disciplines they can start with.
